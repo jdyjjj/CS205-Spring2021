@@ -1,0 +1,2 @@
+C:\Users\jdy\Desktop\StaticLib\Debug\StaticLib.pdb
+C:\Users\jdy\Desktop\StaticLib\StaticLib\Debug\StaticLib.pdb
